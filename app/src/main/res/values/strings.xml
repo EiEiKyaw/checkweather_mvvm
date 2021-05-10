@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="lb_current_weather">Current Weather</string>
+    <string name="lb_enter_city_name">Enter City Name</string>
+    <string name="lb_clouds">Clouds</string>
+    <string name="val_image">Image</string>
+    <string name="lb_few_clouds">few clouds</string>
+    <string name="lb_temperature">Temperature</string>
+    <string name="lb_27_c">27 C</string>
+    <string name="lb_feels_like">Feels Like</string>
+    <string name="lb_min">Min</string>
+    <string name="lb_max">Max</string>
+    <string name="lb_30_57_c">30.57 C</string>
+    <string name="lb__27_c">27 C</string>
+    <string name="lb_pressure">Pressure</string>
+    <string name="lb_1010_hpa">1010 hPa</string>
+    <string name="lb_humidity">Humidity</string>
+    <string name="lb_refresh">Refresh</string>
+    <string name="lb_83">83%</string>
+    <string name="lb_yangon">Yangon</string>
+    <string name="lb_location_image">Location Image</string>
+    <string name="lb_pick_location">Pick Location</string>
+    <string name="google_api_key">AIzaSyCpVhFeoMivAzMtA7vX-RQ0KPZS9iZm1vY</string>
+</resources>
